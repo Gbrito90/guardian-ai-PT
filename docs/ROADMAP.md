@@ -14,11 +14,3 @@
 | 10 | Benchmark Module | ✅ |
 | 11 | Screenshots, GIF e vídeo | 🚧 |
 | 12 | Produção / CI/CD | 📅 |
-
-## Próximas Prioridades
-
-- Adicionar screenshots no README
-- Criar GIF da aplicação
-- Gravar vídeo demo
-- Criar documentação de produção
-- Preparar post/case no LinkedIn
