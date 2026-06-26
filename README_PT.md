@@ -167,7 +167,7 @@ Esse módulo aproxima o projeto de práticas reais de **AI Observability**.
 - Multi-Agent Routing
 - Vector Search
 
-## 📁 Estrutura sugerida do repositório
+## 📁 Estrutura do repositório
 
 ```text
 guardian-ai/
@@ -190,15 +190,11 @@ guardian-ai/
 
 ## 🖼️ Screenshots
 
-Adicionar em breve:
+<img width="1865" height="885" alt="image" src="https://github.com/user-attachments/assets/237d4e7d-b347-4115-8653-bae10d52dd76" />
+<img width="1850" height="912" alt="image" src="https://github.com/user-attachments/assets/a772e495-ae6d-47e6-a924-df3f6f6be120" />
+<img width="1608" height="783" alt="image" src="https://github.com/user-attachments/assets/90cd693b-6dc4-464b-8352-4466c530ddb0" />
+<img width="874" height="862" alt="image" src="https://github.com/user-attachments/assets/79edbb9f-7b4e-4024-b5ab-f48bbac5ca32" />
 
-- Tela de login
-- Dashboard
-- Especialistas
-- Chat RAG
-- Explain AI
-- Benchmark
-- RAG Evaluation Center
 
 ## 🗺️ Roadmap
 
@@ -225,7 +221,7 @@ Adicionar em breve:
 
 MIT License.
 
-## 🌟 Visão
+## 🌟 Visão final
 
 O Guardião IA foi criado para demonstrar como uma solução de IA corporativa pode ser segura, auditável, explicável e orientada a dados internos.
 
